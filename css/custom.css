@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px) {
+    /* index php */
+
+    center{
+        display: flex;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+    .footer-2{
+        display: flex;
+        justify-content: space-between;
+    }
+
+}
